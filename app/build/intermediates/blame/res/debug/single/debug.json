@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setup_div.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\setup_div.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logger_btn_up.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\logger_btn_up.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_logger.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\main_btn_logger.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logger_div.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\logger_div.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_text_bkg.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\main_text_bkg.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_logger.xml.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\layout-sw480dp\\logger.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_main.xml.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\layout-sw480dp\\main.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sub_bkg.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\sub_bkg.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setup_btn_network.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\setup_btn_network.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sdt_osd_tips.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\sdt_osd_tips.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setup_btn_passwd2.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\setup_btn_passwd2.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_login.xml.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\layout-sw480dp\\login.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_face_osd.xml.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\layout-sw480dp\\face_osd.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logger_btn_bkg2.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\logger_btn_bkg2.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_police.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\police.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logger_btn_bkg.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\logger_btn_bkg.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sdt_bkg_2.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\sdt_bkg_2.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sdt_osd_result_blue.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\sdt_osd_result_blue.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sdt_osd_result_top.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\sdt_osd_result_top.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logger_btn_data.xml.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\logger_btn_data.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setup_btn_ok.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\setup_btn_ok.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setup_btn_passwd.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\setup_btn_passwd.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_face_osd.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\face_osd.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_sdt_view.xml.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\layout-sw480dp\\sdt_view.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_sdt_osd.xml.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\layout-sw480dp\\sdt_osd.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sdt_bkg_1.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\sdt_bkg_1.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sdt_osd_photo_blue.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\sdt_osd_photo_blue.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_setup.xml.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\layout-sw480dp\\setup.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_face.xml.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\layout-sw480dp\\face.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_sdt.xml.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\layout-sw480dp\\sdt.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sub_bkg2.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\sub_bkg2.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw480dp_talk.xml.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\layout-sw480dp\\talk.xml"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setup_btn_network2.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\setup_btn_network2.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_bkg.jpg.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\main_bkg.jpg"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_talk_bkg.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\talk_bkg.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_btn_setup.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\main_btn_setup.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logger_btn_down.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\logger_btn_down.png"
+    },
+    {
+        "merged": "G:\\AndroidWork\\talk\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sdt_osd_result_bottom.png.flat",
+        "source": "G:\\AndroidWork\\talk\\app\\src\\main\\res\\drawable\\sdt_osd_result_bottom.png"
+    }
+]
